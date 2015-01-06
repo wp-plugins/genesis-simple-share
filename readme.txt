@@ -23,13 +23,10 @@ Download the latest version of the Genesis Simple Share plugin and upload as a n
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Where can I learn more about this plugin? =
 
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
+We’ve got a small wiki in the git repo for the plugin with some cool tips and tricks you can use.
+https://github.com/copyblogger/genesis-simple-share/wiki/Usage-Tips
 
 
 == Changelog ==
