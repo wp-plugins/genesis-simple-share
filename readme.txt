@@ -1,9 +1,9 @@
 === Genesis Simple Share ===
 Contributors: nathanrice, studiopress, wpmuguru, nick_thegeek
-Tags: genesis, share, share buttons, facebook, twitter, pinterest, stumbleupon, linkdin, social
+Tags: genesis, share, share buttons, facebook, twitter, pinterest, stumbleupon, linkedin, social
 Requires at least: 3.7
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,10 +31,16 @@ https://github.com/copyblogger/genesis-simple-share/wiki/Usage-Tips
 
 == Changelog ==
 
+= 1.0.1 =
+* Fixes potential error where only first post in archive will show share buttons
+
 = 1.0 =
 * Initial WordPress.org release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Fixes potential error where only first post in archive will show share buttons
 
 = 1.0 =
 Plugin was added to the WordPress.org repo. Users should update to ensure they have the latest code.
