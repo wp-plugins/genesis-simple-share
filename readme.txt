@@ -1,5 +1,5 @@
 === Genesis Simple Share ===
-Contributors: nathanrice, studiopress, wpmuguru, nick_thegeek
+Contributors: nathanrice, studiopress, wpmuguru, nick_thegeek, bgardner
 Tags: genesis, share, share buttons, facebook, twitter, pinterest, stumbleupon, linkedin, social
 Requires at least: 3.7
 Tested up to: 4.1
